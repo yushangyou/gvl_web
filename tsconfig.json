@@ -1,5 +1,10 @@
 {
   "files": [],
+  "include": [
+    "./src/*.ts",
+    "./src/*.vue",
+    "./src/*.ext",
+  ],
   "references": [
     {
       "path": "./tsconfig.node.json"
